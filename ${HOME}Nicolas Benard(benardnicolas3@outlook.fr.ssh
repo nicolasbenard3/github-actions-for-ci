@@ -1,0 +1,1 @@
+docker run -it -v ${HOME}/.ssh:/Nicolas Benard(benardnicolas3@outlook.fr/.ssh mcr.microsoft.com/azure-cli
